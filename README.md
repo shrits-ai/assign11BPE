@@ -2,3 +2,5 @@ This app encodes Bengali text into Byte Pair Encoding (BPE) tokens using a pre-t
 
 Vocab size = 5k
 compression ratio = 3.45
+
+This is deployed at : https://huggingface.co/spaces/Shriti09/BengaliBytePairTokenizer
