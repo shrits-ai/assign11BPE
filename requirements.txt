@@ -1,0 +1,6 @@
+pandas
+gradio
+tqdm
+fuzzywuzzy
+python-Levenshtein
+
